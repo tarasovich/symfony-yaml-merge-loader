@@ -30,7 +30,7 @@ Installation
 Add YamlFileMergeLoader by running this command from the terminal at the root of your Symfony project:
 
 ```bash
-composer tarasovich/symfony-yaml-merge-loader
+composer require tarasovich/symfony-yaml-merge-loader
 ```
 
 ### Replace default loader
