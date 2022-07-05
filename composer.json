@@ -18,5 +18,6 @@
         "psr-4": {
             "Tarasovich\\YamlFileMergeLoader\\": "src/"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
